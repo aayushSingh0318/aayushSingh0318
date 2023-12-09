@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=43&duration=3500&pause=2500&center=true&vCenter=true&random=false&width=1000&height=67&lines=Hi+there!+My+name's+Aayush+%3A);Happy++Scrolling!;Still+here%3F;Check+out+my+projects!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=43&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=1000&height=67&lines=Hi+there!+My+name's+Aayush+%3A);Happy++Scrolling!;Still+here%3F;Check+out+my+projects!" alt="Typing SVG" /></a>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
