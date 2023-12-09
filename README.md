@@ -32,7 +32,7 @@
   - [Arcade Video Game](https://github.com/aayushSingh0318/spaceshipGame)
   - [Basketball Game](https://github.com/aayushSingh0318/BasketballGame)
   - [Animated Solar System](https://github.com/joshmadakor1/AD_PS)
-  - [Smaller Projects](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Animated Waterfall](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>📊 Data Science & ML Projects</h2>
 
