@@ -29,7 +29,7 @@
 - <b>Banking Website (MVC Framework, and the following languages: C#, HTML, CSS, JavaScript)</b>
   - [Bevo Bank](https://github.com/aayushSingh0318/Banking-Website)
 - <b>Processing</b>
-  - [Arcade Video Game](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Arcade Video Game](https://github.com/aayushSingh0318/spaceshipGame)
   - [Basketball Game](https://github.com/aayushSingh0318/BasketballGame)
   - [Animated Solar System](https://github.com/joshmadakor1/AD_PS)
   - [Smaller Projects](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
