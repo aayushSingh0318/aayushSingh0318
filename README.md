@@ -46,7 +46,7 @@
   - [2D Star Mapping](https://github.com/aayushSingh0318/2DskyMap)
   - [3D Star Mapping](https://github.com/aayushSingh0318/3DskyMap)
   - [Data Wrangling](https://github.com/aayushSingh0318/dataWrangling)
-  - [Demographic/Generational Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Demographic/Generational Analysis](https://github.com/aayushSingh0318/demographicAnalysis)
 - <b>Learning NLP/Graph/Networks</b>
   - [NLP Learning](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [NLP - Alice in Wonderland](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
