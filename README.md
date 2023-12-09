@@ -31,7 +31,7 @@
 - <b>Processing</b>
   - [Arcade Video Game](https://github.com/aayushSingh0318/spaceshipGame)
   - [Basketball Game](https://github.com/aayushSingh0318/BasketballGame)
-  - [Animated Solar System](https://github.com/joshmadakor1/AD_PS)
+  - [Animated Solar System](https://github.com/aayushSingh0318/solarSystem)
   - [Animated Waterfall](https://github.com/aayushSingh0318/waterfallSimulation)
 
 <h2>📊 Data Science & ML Projects</h2>
