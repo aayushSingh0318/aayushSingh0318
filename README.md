@@ -25,7 +25,7 @@
 
 - <b>Data Structures and Algorithms</b>
   - [DS & Algos in C](https://github.com/aayushSingh0318/Personal_Projects)
-  - [Projects in Python](https://github.com/aayushSingh0318/Banking-Website)
+  - [Projects in Python](https://github.com/aayushSingh0318/dataStructuresProjects)
 - <b>Banking Website (MVC Framework, and the following languages: C#, HTML, CSS, JavaScript)</b>
   - [Bevo Bank](https://github.com/aayushSingh0318/Banking-Website)
 - <b>Processing</b>
