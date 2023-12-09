@@ -27,7 +27,7 @@
   - [DS & Algos in C](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Projects in Python](https://github.com/aayushSingh0318/Banking-Website)
 - <b>Banking Website (MVC Framework, and the following languages: C#, HTML, CSS, JavaScript)</b>
-  - [Bevo Bank](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bevo Bank](https://github.com/aayushSingh0318/Banking-Website)
 - <b>Processing</b>
   - [Arcade Video Game](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Basketball Game](https://github.com/joshmadakor1/Jwipe.PowerShell)
