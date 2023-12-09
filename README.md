@@ -49,7 +49,7 @@
   - [Demographic/Generational Analysis](https://github.com/aayushSingh0318/demographicAnalysis)
 - <b>Learning NLP/Graph/Networks</b>
   - [NLP - Alice in Wonderland](https://github.com/aayushSingh0318/nlpAlice)
-  - [Game of Thrones Graph Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Game of Thrones Graph Analysis](https://github.com/aayushSingh0318/GotNetworkAnalysis)
   - [Quakers Network Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
