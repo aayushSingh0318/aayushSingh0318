@@ -40,8 +40,7 @@
   - [Player Performance Evaluations](https://github.com/aayushSingh0318/nbaPlayers)
   - [Win/Lose Predictions](https://github.com/aayushSingh0318/nbaGames)
 - <b>Soil Moisture Deep Learning</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Texas Soil Moisture Collaborated Repository](https://github.com/kiat/tx-soil-moisture)
 - <b>Data Science/Visualization Mini-Projects</b>
   - [2D Star Mapping](https://github.com/aayushSingh0318/2DskyMap)
   - [3D Star Mapping](https://github.com/aayushSingh0318/3DskyMap)
