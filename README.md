@@ -24,7 +24,7 @@
 <h2>👨‍💻 Software Development Projects</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - [DS & Algos in C](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DS & Algos in C](https://github.com/aayushSingh0318/Personal_Projects)
   - [Projects in Python](https://github.com/aayushSingh0318/Banking-Website)
 - <b>Banking Website (MVC Framework, and the following languages: C#, HTML, CSS, JavaScript)</b>
   - [Bevo Bank](https://github.com/aayushSingh0318/Banking-Website)
