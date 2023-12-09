@@ -38,12 +38,12 @@
 
 - <b>NBA Predictive Model and Visualization (Python, Jupyter, Pandas, Scikit-Learn (sklearn), Plotly, Seaborn, Matplotlib)</b>
   - [Player Performance Evaluations](https://github.com/aayushSingh0318/nbaPlayers)
-  - [Win/Lose Predictions](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Win/Lose Predictions](https://github.com/joshmadakor1/nbaGames)
 - <b>Soil Moisture Deep Learning</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Data Science/Visualization Mini-Projects</b>
-  - [2D Star Mapping](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [2D Star Mapping](https://github.com/aayushSingh0318/2DskyMap)
   - [3D Star Mapping](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Data Wrangling](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Demographic/Generational Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
