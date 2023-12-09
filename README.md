@@ -37,7 +37,7 @@
 <h2>📊 Data Science & ML Projects</h2>
 
 - <b>NBA Predictive Model and Visualization (Python, Jupyter, Pandas, Scikit-Learn (sklearn), Plotly, Seaborn, Matplotlib)</b>
-  - [Player Performance Evaluations](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Player Performance Evaluations](https://github.com/aayushSingh0318/nbaPlayers)
   - [Win/Lose Predictions](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Soil Moisture Deep Learning</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
