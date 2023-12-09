@@ -30,7 +30,7 @@
   - [Bevo Bank](https://github.com/aayushSingh0318/Banking-Website)
 - <b>Processing</b>
   - [Arcade Video Game](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Basketball Game](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Basketball Game](https://github.com/aayushSingh0318/BasketballGame)
   - [Animated Solar System](https://github.com/joshmadakor1/AD_PS)
   - [Smaller Projects](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
