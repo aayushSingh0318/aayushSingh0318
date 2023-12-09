@@ -44,7 +44,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Data Science/Visualization Mini-Projects</b>
   - [2D Star Mapping](https://github.com/aayushSingh0318/2DskyMap)
-  - [3D Star Mapping](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [3D Star Mapping](https://github.com/jaayushSingh0318/3DskyMap)
   - [Data Wrangling](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Demographic/Generational Analysis](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Learning NLP/Graph/Networks</b>
