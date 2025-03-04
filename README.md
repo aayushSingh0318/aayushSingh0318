@@ -11,7 +11,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,linux, pytorch,sklearn,arduino,bash,bootstrap,c,css,discord,dotnet,eclipse,figma,github,html,java,js,kubernetes,linux,mongodb,mysql,processing,py,pytorch,raspberrypi,swift,tensorflow,visualstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,linux,pytorch,sklearn,arduino,bash,bootstrap,c,css,discord,dotnet,eclipse,figma,github,html,java,js,kubernetes,linux,mongodb,mysql,processing,py,pytorch,raspberrypi,swift,tensorflow,visualstudio&perline=8" />
   </a>
 </p>
 
