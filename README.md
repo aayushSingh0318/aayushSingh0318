@@ -36,29 +36,7 @@
 
 ---
 
-<!-- ============ GITHUB STATS ============ -->
-## 📈 GitHub Stats
 
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aayushSingh0318&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushSingh0318&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushSingh0318&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushSingh0318&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
----
 
 <!-- ============ SOFTWARE PROJECTS ============ -->
 ## 👨‍💻 Software Development Projects
