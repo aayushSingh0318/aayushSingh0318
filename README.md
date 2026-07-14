@@ -6,8 +6,8 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/{{LINKEDIN}}"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aayush-singh3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aayushsingh.as0318@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=aayushSingh0318&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -20,10 +20,8 @@
 
 - 💻 Software Engineer **@ Microsoft** — based in **Atlanta, GA**
 - 🔭 I love exploring a variety of technical domains: **software development, data science, ML, and creative coding**
-- 🌱 Currently sharpening my skills in **{{LEARNING}}** <!-- e.g. distributed systems, LLMs -->
 - 👯 Open to collaborating on **data-driven and open-source projects**
 - 💬 Ask me about **Python, ML pipelines, C#, or Processing/creative coding**
-- ⚡ Fun fact: **{{FUN_FACT}}**
 
 ---
 
